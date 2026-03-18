@@ -1,0 +1,10 @@
+{
+  "last_check": "2026-03-18T10:58:13+00:00",
+  "glm5_available": true,
+  "gemini_available": false,
+  "deepseek_available": true,
+  "current_model": "GLM-5",
+  "pause_requests": false,
+  "pause_reason": "",
+  "pause_time": null
+}
